@@ -8,4 +8,6 @@ def mostrar_menu():
     print("4. Eliminar tarea")
     print("5. Salir")
 
+Líder de proyecto**: [Michelle Silva]  
+- **Desarrolladores**: [Michelle y Cherry]  
 soy la segunda en escribir esto 😝
